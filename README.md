@@ -12,5 +12,9 @@
 ## P.S
 자바 프로그램으로, 실행파일 버전은 없습니다. 실행을 원하시는 분은 소스코드를 다운받아 Papplet library만을 import하여 사용하시면 됩니다.
 
+## Demo Video
+
+https://www.youtube.com/watch?v=VCULbTsmgG4&feature=youtu.be
+
 ## Image
 ![homepage](https://github.com/yoonkt200/AjouMedia_Register/blob/master/readme_images/1.PNG)
